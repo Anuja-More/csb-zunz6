@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "https://anuja-more.github.io/csb-zunz6/static/js/main.5b0efd74.chunk.js",
+    "main.js.map": "https://anuja-more.github.io/csb-zunz6/static/js/main.5b0efd74.chunk.js.map",
+    "runtime-main.js": "https://anuja-more.github.io/csb-zunz6/static/js/runtime-main.cd153013.js",
+    "runtime-main.js.map": "https://anuja-more.github.io/csb-zunz6/static/js/runtime-main.cd153013.js.map",
+    "static/js/2.8ad22c5d.chunk.js": "https://anuja-more.github.io/csb-zunz6/static/js/2.8ad22c5d.chunk.js",
+    "static/js/2.8ad22c5d.chunk.js.map": "https://anuja-more.github.io/csb-zunz6/static/js/2.8ad22c5d.chunk.js.map",
+    "static/js/3.4a6d75b5.chunk.js": "https://anuja-more.github.io/csb-zunz6/static/js/3.4a6d75b5.chunk.js",
+    "static/js/3.4a6d75b5.chunk.js.map": "https://anuja-more.github.io/csb-zunz6/static/js/3.4a6d75b5.chunk.js.map",
+    "index.html": "https://anuja-more.github.io/csb-zunz6/index.html",
+    "static/js/2.8ad22c5d.chunk.js.LICENSE.txt": "https://anuja-more.github.io/csb-zunz6/static/js/2.8ad22c5d.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "https://anuja-more.github.io/csb-zunz6/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "https://anuja-more.github.io/csb-zunz6/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "https://anuja-more.github.io/csb-zunz6/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "https://anuja-more.github.io/csb-zunz6/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "https://anuja-more.github.io/csb-zunz6/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-1.6a6ef41a.jpg": "https://anuja-more.github.io/csb-zunz6/static/media/sweet-1.6a6ef41a.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "https://anuja-more.github.io/csb-zunz6/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "https://anuja-more.github.io/csb-zunz6/static/media/sweet-3.badeecbe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd153013.js",
+    "static/js/2.8ad22c5d.chunk.js",
+    "static/js/main.5b0efd74.chunk.js"
+  ]
+}
